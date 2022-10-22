@@ -3,7 +3,7 @@
 #Instructions: In this file you are required to write in Markdown your current skills abilities with regards to cubing. 
 i.e. Type of cube, whether you can solve it yet or not, what method you use(name), your recorded ao5, ao12, ao25(along with dates and times accomplished)
 
-Type of Cubes:                      Solvable:           Method:
+Type of Cubes:                      Solved:             Method:
 Moyu Corner Twist Pyraminx          Yes                 Solve one face, rotate top piece until solved
 Pyraminx Duo                        Yes                 Solve corners, then for centers either in-in-out-out, or reverse to solve centers, then if not yet solved rotate 																												 top corner to match      
 Pyraminx                            Yes                 Choose a color face to solve, solve tips, rotate corners until all 3 tips have centers, solve edge pieces = solve 																												layer, then solve top
@@ -25,3 +25,5 @@ Trial:       Time:        ao5:        ao12:
 3            47.16
 2            34.72
 1            57.98
+
+
