@@ -4,14 +4,13 @@
 i.e. Type of cube, whether you can solve it yet or not, what method you use(name), your recorded ao5, ao12, ao25(along with dates and times accomplished)
 
 Type of Cubes:                      Solvable:           Method:
-Moyu Boomerang Pyraminx             Yes                 Solve one face, then rotate top until solved, if not solved and it appears as if 2 colors are flipped, rotate bottom corners in same direction in alternation for 5 rotations
 Moyu Corner Twist Pyraminx          Yes                 Solve one face, rotate top piece until solved
-Pyraminx Duo                        Yes                 Solve corners, then for centers either in-in-out-out, or reverse to solve centers, then if not yet solved rotate top corner to match      
-Pyraminx                            Yes                 Choose a color face to solve, solve tips, rotate corners until all 3 tips have centers, solve edge pieces = solve layer, then solve top
+Pyraminx Duo                        Yes                 Solve corners, then for centers either in-in-out-out, or reverse to solve centers, then if not yet solved rotate 																												 top corner to match      
+Pyraminx                            Yes                 Choose a color face to solve, solve tips, rotate corners until all 3 tips have centers, solve edge pieces = solve 																												layer, then solve top
 
-*Recorded times for pyraminx only!*
+Recorded Times:
 
-Date: 21-10-22
+Pyraminx Date: 21-10-22
 
 Trial:       Time:        ao5:        ao12:
 12           30.99        30.70       40.65
