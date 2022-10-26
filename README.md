@@ -5,6 +5,7 @@
   <p>Method: Choose a color face to solve, solve tips, rotate corners until all 3 tips have centers, solve edge pieces = solved first layer, then solve top</p>
 
   Recorded Times: 21-10-22
+  *Greatest and least times are included in averages for this table*
 
  Trial | Time |  ao5  |  ao12
 -------|------|-------|-----
