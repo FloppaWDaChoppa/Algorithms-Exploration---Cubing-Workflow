@@ -5,7 +5,7 @@
   <p>Method: Choose a color face to solve, solve tips, rotate corners until all 3 tips have centers, solve edge pieces = solved first layer, then solve top</p>
 
   Recorded Times: 21-10-22
-  *Greatest and least times are included in averages for this table*
+  (*Greatest and least times are included in averages for this table*)
 
  Trial | Time |  ao5  |  ao12
 -------|------|-------|-----
@@ -36,7 +36,7 @@ Recorded Times: 24-10-22
 
 <h2> Corner-Twist Pyraminx: </h2>
   <p>Solved: Yes </p>
-  <p>Method: Rotate corners to solve on side, then solve top. If all corners are correct but center piece is flipped, in-in out-out
+  <p>Method: Rotate corners to solve on side, then solve top.
 
   Recorded Times: 25-10-22
 
@@ -54,3 +54,25 @@ Recorded Times: 24-10-22
   3  | 9.96 |
   2  | 14.66 |
   1  | 8.92 |
+
+
+<h2> Pyraminx Duo: </h2>
+  <p>Solved: Yes </p>
+  <p>Method: Rotate corners so all corners match. If the centers are not aligned at this point, find where 2 corresponding center pieces are flipped, in-in out-out
+
+  Recorded Times: 26-10-22
+
+ Trial | Time |  ao5  | ao12 |
+-------|------|-------|------|
+  12 | 12.00 | 9.98 | 8.96
+  11 | 9.29 | 8.44
+  10 | 6.77 | 8.14
+  9  | 11.40 | 9.08
+  8  | 9.25 | 9.08
+  7  |4.38 | 9.29
+  6  | 8.41 | 9.29
+  5  | 9.59 | 9.14
+  4  | 9.88
+  3  | 13.64
+  2  | 5.07
+  1  |7.94
